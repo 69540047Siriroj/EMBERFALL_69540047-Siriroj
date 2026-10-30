@@ -1,0 +1,16 @@
+Code cell 1: PASS
+Code cell 2: PASS
+Code cell 3: PASS
+PASS กรณี 1: ดาเมจ 6 | HP 139 | พลังสกิล 3
+Code cell 4: PASS
+แจ้งเตือน: พลังสกิลไม่พอ ต้องมีอย่างน้อย 2
+PASS กรณี 2: ไม่เสีย HP / พลังสกิล / เทิร์น
+Code cell 5: PASS
+PASS: จำลองครบ 30 เกม / ชนะครบ 9 ตัว / สถานะอยู่ในช่วงที่กำหนด
+Code cell 6: PASS
+Code cell 7: PASS
+Code cell 8: PASS
+Code cell 9: PASS
+PASS: เลือกอาชีพ → เส้นทาง → ต่อสู้ → กองไฟ → ชนะ/แพ้ → จบเกม → เริ่มใหม่
+Executed all 9 code cells using an actual IPython/Jupyter in-process kernel.
+Separate-process kernel unavailable: environment blocks sockets. No real Colab/browser UI click test.

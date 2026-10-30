@@ -1,0 +1,11 @@
+test_full_adventures (test_visual.Tests.test_full_adventures) ... ok
+test_http_api (test_visual.Tests.test_http_api) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.543s
+
+OK
+
+Pygame dummy video driver: route/battle/camp/victory/defeat rendered.
+Python and JavaScript syntax checked.
+No direct Windows or browser UI test in this run.
